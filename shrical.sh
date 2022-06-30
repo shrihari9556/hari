@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "this is kulkarni"
 count=0
 while [ $count -eg 0 ]
 do
