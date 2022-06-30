@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "this is hari"
 echo "enter the file name"
 read name
 echo "enter the filename to rename"
