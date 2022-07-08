@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "hi today friday"
 a=$1
 b=$2
 echo "enter the first number to compare"
