@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hi today friday"
+echo "For jenkins testing"
 a=$1
 b=$2
 echo "enter the first number to compare"
